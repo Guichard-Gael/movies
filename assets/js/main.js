@@ -10,6 +10,7 @@ getMoviesData().then(
         setInterval(() => {
 
             let movies = takeAllMovies();
+            
             topMovies.addToTop(movies)
             for(let i = 0 ; i < movies.length ; i++){
                 movie = movies[i];

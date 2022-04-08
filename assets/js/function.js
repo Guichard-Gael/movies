@@ -22,7 +22,7 @@ async function getMoviesData(){
 
 /* Récupération de tout les films dans un tableau */
 function takeAllMovies (){
-    let allMovies = document.querySelectorAll('.listMovies .containerPoster');
+    let allMovies = [...document.querySelectorAll('.listMovies .containerPoster')];
     return allMovies;
 }
 
@@ -52,11 +52,14 @@ const createElement = {
 /* Gestion de la section "Mon top 2" */
 const topMovies = {
     addToTop(movies){
-        // console.log(movies);
+        console.log(movies);
+        if (movies.type) {
+            return
+        }
         movies.forEach(movie => {
             movie.removeEventListener('click', topMovies.removeToTop1)
             movie.addEventListener('click', topMovies.addToTopCondition)   
-        })       
+        })    
     },
     addToTopCondition(e){
         if (containerTop1.children.length === 1) {
