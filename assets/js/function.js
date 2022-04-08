@@ -52,7 +52,6 @@ const createElement = {
 /* Gestion de la section "Mon top 2" */
 const topMovies = {
     addToTop(movies){
-        console.log(movies);
         if (movies.type) {
             return
         }
