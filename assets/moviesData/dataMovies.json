@@ -1,0 +1,103 @@
+[
+    {
+        "title":"Django",
+        "description":"Deux ans avant la Guerre civile, un ancien esclave du nom de Django s'associe avec un chasseur de primes d'origine allemande qui l'a libéré ; il accepte de traquer avec lui des criminels recherchés. En échange, il l'aidera à retrouver sa femme perdue depuis longtemps et esclave elle aussi.",
+        "poster":"assets/images/Django.jpg"
+    },
+    {
+        "title":"Harry Potter à l’École des Sorciers ",
+        "description":"Harry Potter, un jeune orphelin, est élevé par son oncle et sa tante qui le détestent. Alors qu'il était haut comme trois pommes, ces derniers lui ont raconté que ses parents étaient morts dans un accident de voiture. Le jour de son onzième anniversaire, Harry reçoit la visite inattendue d'un homme gigantesque se nommant Rubeus Hagrid, et celui-ci lui révèle qu'il est en fait le fils de deux puissants magiciens et qu'il possède lui aussi d'extraordinaires pouvoirs.",
+        "poster":"assets/images/Harry-Potter-a-l-ecole-des-sorciers.jpg"
+    },
+    {
+        "title":"Harry Potter et la Chambre des Secrets ",
+        "description":"Alors que l'oncle Vernon, la tante Pétunia et son cousin Dudley reçoivent d'importants invités à dîner, Harry Potter est contraint de passer la soirée dans sa chambre. Dobby, un elfe, fait alors son apparition. Il lui annonce que de terribles dangers menacent l'école de Poudlard et qu'il ne doit pas y retourner en septembre. Harry refuse de le croire. Mais sitôt la rentrée des classes effectuée, ce dernier entend une voix malveillante.",
+        "poster":"assets/images/Harry-Potter-et-la-chambre-des-secrets.jpg"
+    },
+    {
+        "title":"Harry Potter et le Prisonnier d’Azkaban ",
+        "description":"Sirius Black, un dangereux sorcier criminel, s'échappe de la sombre prison d'Azkaban avec un seul et unique but : se venger d'Harry Potter, entré avec ses amis Ron et Hermione en troisième année à l'école de sorcellerie de Poudlard, où ils auront aussi à faire avec les terrifiants Détraqueurs.",
+        "poster":"assets/images/Harry-Potter-et-le-prisonnier-d-azkaban.jpg"
+    },
+    {
+        "title":"Harry Potter et la Coupe de feu ",
+        "description":"La quatrième année à l'école de Poudlard est marquée par le Tournoi des trois sorciers. Les participants sont choisis par la fameuse coupe de feu, qui est à l'origine d'un scandale. Elle sélectionne Harry Potter tandis qu'il n'a pas l'âge légal requis. Après avoir surmonté une série d'épreuves physiques de plus en plus difficiles, il est enfin confronté à Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom.",
+        "poster":"assets/images/Harry-potter-et-la-coupe-de-feu.jpg"
+    },
+    {
+        "title":"Harry Potter et l’Ordre du Phénix",
+        "description":"À sa cinquième année à l'école de sorcellerie de Poudlard, Harry Potter passe pour un illuminé, le ministre de la magie Cornelius Fudge ayant officiellement réfuté les révélations de l'adolescent et de son directeur, Dumbleore, disant que le terrifiant Lord Voldermort est de retour. Une nouvelle professeure à Poudlard refuse d'enseigner les techniques défensives magiques, et Harry crée donc un groupe de résistance clandestin, surnommé l'armée de Dumbledore, à l'image de l'Ordre du Phénix.",
+        "poster":"assets/images/Harry-potter-et-l-ordre-du-phenix.jpg"
+    },
+    {
+        "title":"Harry Potter et le Prince de Sang Mêlé ",
+        "description":"Cette sixième année scolaire de Harry Potter à l'école de sorciers commence par une dispute avec son ennemi juré Draco Malfoy, en qui les forces des ténèbres placent désormais leurs espoirs. Accaparés par les émois et les malentendus amoureux, Hermione et Ron remarquent à peine que Harry enquête à la demande de Dumbledore sur le passé du professeur Slughorn. Entré dans le cercle des intimes de l'enseignant sur la foi de bonnes notes grâce à un manuel scolaire annoté, Harry se rapproche du but.",
+        "poster":"assets/images/Harry-potter-et-le-prince-de-sang-mele.jpg"
+    },
+    {
+        "title":"Harry Potter et les Reliques de la Mort Partie 1",
+        "description":"Sans les conseils et la protection de leurs professeurs, Harry, Ron et Hermione ont pour mission de détruire les horcruxes, les origines de l'immortalité de Voldemort. Bien que plus que jamais ils doivent compter l'un sur l'autre, les forces du mal menacent de les désunir. Les Death Eaters de Voldemort ont pris le contrôle du ministère de la Magie et de Hogwarts et ils recherchent Harry. Aussi Harry et ses amis se préparent pour la dernière confrontation.",
+        "poster":"assets/images/Harry-potter-et-les-reliques-de-la-mort-1.jpg"
+    },
+    {
+        "title":"Harry Potter et les Reliques de la Mort Partie 2",
+        "description":"Dans la deuxième partie de cette finale épique, la bataille entre les forces du bien et celles du mal du monde des magiciens dégénère en une guerre tous azimuts. Les enjeux n'ont jamais été si grands et personne n'est en sécurité. Mais c'est peut-être Harry Potter qui pourrait être appelé à faire le sacrifice ultime alors qu'il se rapproche de la confrontation tant attendue avec Lord Voldemort. Tout se termine ici.",
+        "poster":"assets/images/Harry-potter-et-les-reliques-de-la-mort-2.jpg"
+    },
+    {
+        "title":"Intouchable",
+        "description":"Tout les oppose et il était peu probable qu'ils se rencontrent un jour, et pourtant. Philippe, un riche aristocrate devenu tétraplégique après un accident de parapente va engager Driss, un jeune homme d'origine sénégalaise tout droit sorti de prison, comme auxiliaire de vie à domicile. Pourquoi lui ? Tout simplement parce qu'il ne regarde pas Philippe avec le même regard de pitié que les autres candidats.",
+        "poster":"assets/images/Intouchable.jpg"
+    },
+    {
+        "title":"Le Hobbit – Un Voyage Inattendu",
+        "description":"Bilbon Sacquet mène une existence paisible dans sa maison, jusqu'à ce que le magicien Gandalf vienne le chercher pour qu'il prenne part à une aventure avec un groupe de nains. Ces derniers veulent reconquérir leur royaume, détruit par le terrible dragon cracheur de feu Smaug, qui habite toujours les lieux, planqué sous des milliers de pièces d'or. Ils devront affronter des orques, des gobelins, des trolls, sympathiser avec les Elfes, leurs ennemis, et affronter des forces maléfiques.",
+        "poster":"assets/images/Le-Hobbit-Un-Voyage-Inattendu.jpg"
+    },
+    {
+        "title":"Le Hobbit – La Désolation de Smaug ",
+        "description":"Bilbon Sacquet et les Nains continuent leur quête vers la Montagne Solitaire. Les trolls sont à leurs trousses alors qu'ils s'engagent dans la dangereuse forêt de Mirkwood. Attaqués par des araignées géantes puis capturés par les Elfes, ils s'évadent et sont sauvés grâce aux talents au combat de Legolas et de Tauriel. Pendant ce temps, Gandalf est sur la piste de la force sombre qui prépare secrètement son retour à Dol Guldur.",
+        "poster":"assets/images/Le-hobbit-la-desolation-de-smaug.jpg"
+    },
+    {
+        "title":"Le Hobbit – La Bataille des Cinq Armées",
+        "description":"Atteignant enfin la Montagne Solitaire, Thorin et les Nains, aidés par Bilbon le Hobbit, ont réussi à récupérer leur royaume et leur trésor. Ils ont également réveillé le dragon Smaug qui déchaîne désormais sa colère sur les habitants de Lac-ville. À présent, les Nains, les Elfes, les Humains mais aussi les Wrags et les Orques menés par le Nécromancien, convoitent les richesses de la Montagne Solitaire.",
+        "poster":"assets/images/Le-hobbit-la-bataille-des-cing-armees.jpg"
+    },
+    {
+        "title":"Les 8 Salopards",
+        "description":"Quelques années après la guerre de Sécession, le chasseur de primes John Ruth, dit Le Bourreau, fait route vers Red Rock, où il conduit sa prisonnière Daisy Domergue. Sur leur route, ils rencontrent le Major Marquis Warren, un ancien soldat aussi devenu chasseur de primes, et Chris Mannix, le nouveau shérif de Red Rock. Surpris par le blizzard, ils trouvent refuge dans une auberge au milieu des montagnes, où ils sont accueillis par quatre personnages énigmatiques.",
+        "poster":"assets/images/Les-8-salopards.jpg"
+    },
+    {
+        "title":"Le Seigneur des Anneaux - La Communauté de l’Anneau",
+        "description":"Un jeune et timide `Hobbit', Frodon Sacquet, hérite d'un anneau magique. Bien loin d'être une simple babiole, il s'agit d'un instrument de pouvoir absolu qui permettrait à Sauron, le `Seigneur des ténèbres', de régner sur la `Terre du Milieu' et de réduire en esclavage ses peuples. Frodon doit parvenir jusqu'à la `Crevasse du Destin' pour détruire l'anneau.",
+        "poster":"assets/images/Le-Seigneur-Des-Anneaux-La-Communaute-De-L-Anneau.jpg"
+    },
+    {
+        "title":"Le Seigneur des Anneaux – Les Deux Tours",
+        "description":"Après la mort de Boromir et la disparition de Gandalf, la Communauté s'est scindée en trois. Perdus dans les collines d'`Emyn Muil', Frodon et Sam découvrent qu'ils sont suivis par Gollum, une créature versatile corrompue par l'anneau magique. Gollum promet de conduire les `Hobbits' jusqu'à la `Porte Noire' du `Mordor'. A travers la `Terre du Milieu', Aragorn, Legolas et Gimli font route vers le `Rohan', le royaume assiégé de Theoden.",
+        "poster":"assets/images/Le-Seigneur-des-Anneaux-Les-Deux-Tours.jpg"
+    },
+    {
+        "title":"Le Seigneur des Anneaux – Le Retour du Roi",
+        "description":"Les armées de Sauron ont attaqué Minas Tirith, la capitale du Gondor. Jamais ce royaume autrefois puissant n'a eu autant besoin de son roi. Cependant, Aragorn trouvera-t-il en lui la volonté d'accomplir sa destinée ? Tandis que Gandalf s'efforce de soutenir les forces brisées de Gondor, Théoden exhorte les guerriers de Rohan à se joindre au combat. Cependant, malgré leur courage et leur loyauté, les forces des Hommes ne sont pas de taille à lutter contre les innombrables légions d'ennemis.",
+        "poster":"assets/images/Le-seigneur-des-anneaux-le-retour-du-roi.jpg"
+    },
+    {
+        "title":"NWA",
+        "description":"En 1987, 5 jeunes hommes exprimaient leur frustration et leur colère pour dénoncer les conditions de vie de l'endroit le plus dangereux de l'Amérique avec l'arme la plus puissante qu'ils possédaient : leur musique. Voici la véritable histoire de ces rebelles, armés uniquement de leur parole, de leur démarche assurée et de leur talent brut, qui ont résisté aux autorités qui les opprimaient. Ils ont ainsi formé le groupe de rappeurs des N.W.A. en dénonçant la réalité de leur quartier.",
+        "poster":"assets/images/NWA.jpg"
+    },
+    {
+        "title":"Shutter Island",
+        "description":"En 1954, une meurtrière, extrêmement dangereuse, placée en centre de détention psychiatrique disparaît sur l'île de Shutter Island. Deux officiers du corps fédéral des marshals, Teddy Daniels et Chuck Aule, sont envoyés sur place pour enquêter. Très vite, Teddy Daniels comprend que le personnel de l'établissement cache quelque chose. Seul indice dont il dispose : un bout de papier sur lequel est griffonnée une suite de chiffres entrecoupée de lettres.",
+        "poster":"assets/images/Shutter-island.jpg"
+    },
+    {
+        "title":"Snatch",
+        "description":"Franky vient de voler un énorme diamant qu'il doit livrer à Avi, un mafieux new-yorkais. En chemin, il fait escale à Londres où il se laisse convaincre par Boris de parier sur un combat de boxe clandestin. Il ignore, bien sûr, qu'il s'agit d'un coup monté avec Vinny et Sol, afin de le délester de son magnifique caillou. Turkish et Tommy, eux, ont un problème avec leur boxeur, un gitan complètement fêlé qui refuse de se coucher au quatrième round comme prévu.  C'est au tour d'Avi de débarquer, bien décidé à récupérer son bien, avec l'aide de Tony, une légende de la gâchette.",
+        "poster":"assets/images/Snatch.jpg"
+    }
+
+]
